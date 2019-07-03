@@ -1,5 +1,6 @@
 package com.example.demo;
 
+/* This is the domain class */
 public class User {
 
 	private int id;
